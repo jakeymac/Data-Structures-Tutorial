@@ -1,12 +1,12 @@
 # Stacks
 
-![Image of a stack]([images/stacks.png](https://github.com/jakeymac/Data-Structures-Tutorial/blob/main/Images/stacks.png))
+![Image of a stack]([stacks.png]
 # Intro and real-life application 
 Stacks are a data structure based on a list, but one that behaves differently. Stacks have a "Last-In-First-Out" behavior, also called LIFO
 
 Stacks can be easily found in real life. One good way to imagine a stack and it's behavior is cars pulling into a one-car-wide driveway. Let's say three cars pull into this driveway one after another. For the second car to leave, the third one must first pull out, and the same goes for the first car, meaning the third and second ones must first leave. Other examples include stacks of books or plates in a cupboard. 
 
-![Image of a stack](images/second_stack_pic.png)
+![Image of a stack](second_stack_pic.png)
 # Methods used on stacks
 The two main methods used with stacks are push and pop, otherwise known as pull. In python, push is accomplished using the append method, as you will see below. Push simply adds a new item to the top of the stack, while pull simply grabs and removes the last item placed on the stack. Two other methods that can be used with stacks are length, to find the size of the stack, and empty, which is simply used to tell if the stack is empty or not.
 
@@ -17,7 +17,7 @@ Stacks are a very efficient data structure, as each of these methods have an eff
 # More applications
 In computers, stacks are used to keep track of undo/redo functions, or even back/forward functions in a web browser. In general computers use this data structure when running any program and its functions, placing each function on top when it is called, and pulling it from the stack when it finished running. (see image below)
 
-![stack of functions being called](images/function_stack.jpg)
+![stack of functions being called](function_stack.jpg)
 
 # Stack syntax in code
 ```python

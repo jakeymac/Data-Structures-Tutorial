@@ -6,7 +6,7 @@ In this tutorial, you will find information and tips on these three data structu
 ![Stacks image](welcome_page_stacks_image.png)
 
 # [Linked Lists](linked_lists.md)
-![Linked Lists Image](images/welcome_page_linked_list_image.jpg)
+![Linked Lists Image](welcome_page_linked_list_image.jpg)
 
 # [Trees](trees.md)
-![Trees image](images/welcome_page_trees_image.png)
+![Trees image](welcome_page_trees_image.png)

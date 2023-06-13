@@ -1,6 +1,6 @@
 # Trees
 
-![Image of a binary search tree](images/first_tree.png)
+![Image of a binary search tree](first_tree.png)
 
 # Nature and syntax of trees
 Trees are a data structure similar to linked lists in that they are made up of nodes, each with a different value, and in that each node is linked to one or more other nodes. 
@@ -99,7 +99,7 @@ def insert_to_priority_queue(priority_queue,new_root):
 
 After creating a huffman tree for a piece of text, you then need to encode each character. To do so, begin at the root, and start  moving down the tree. Each time you go left, assign a zero to the link between nodes, and each time you move to a right child node, assign a 1. See the image below to see this visualized:
 
-![A huffman tree with encoded links between nodes](images/huffman_tree_encoding.png)
+![A huffman tree with encoded links between nodes](huffman_tree_encoding.png)
 
 Next, encode each leaf node by retrieving each digit that is passed in order to reach a leaf node. For example, in the image above, the character U would be encoded as 1101. 
 

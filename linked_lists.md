@@ -1,6 +1,6 @@
 # Linked Lists
 
-![Image of a doubly linked list](images/doubly_linked_list.png)
+![Image of a doubly linked list](doubly_linked_list.png)
 
 
 # Introduction
@@ -113,7 +113,7 @@ The Big O notation for the efficiency for operations in a linked list are the fo
 
 In comparison, in order to insert a new value into a list or other regular array, the computer then has to reallocate and shift all elements of the list, making any inserting in a regular list O(n) (See picture below)
 
-![An image comparing inserting into a linked list vs a regular array](images/linked_list_vs_array.jpeg)
+![An image comparing inserting into a linked list vs a regular array](linked_list_vs_array.jpeg)
 
 # Application
 One application of a linked list that can be very useful is the implemntation of a linked list to function as a queue. A queue is another type of data structure that is also similar to a list. The only types of allowed manipulation of a queue are adding to the end, or taking away from the front of the queue. 

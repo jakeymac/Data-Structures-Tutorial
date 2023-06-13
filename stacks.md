@@ -1,6 +1,6 @@
 # Stacks
 
-![Image of a stack](images/stacks.png)
+![Image of a stack]([images/stacks.png](https://github.com/jakeymac/Data-Structures-Tutorial/blob/main/Images/stacks.png))
 # Intro and real-life application 
 Stacks are a data structure based on a list, but one that behaves differently. Stacks have a "Last-In-First-Out" behavior, also called LIFO
 

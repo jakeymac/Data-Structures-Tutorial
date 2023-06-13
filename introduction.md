@@ -3,7 +3,7 @@ Welcome! Here we'll be going over three types of data structures found and used 
 
 In this tutorial, you will find information and tips on these three data structures:
 # [Stacks](stacks.md)
-![Stacks image](images/welcome_page_stacks_image.png)
+![Stacks image](welcome_page_stacks_image.png)
 
 # [Linked Lists](linked_lists.md)
 ![Linked Lists Image](images/welcome_page_linked_list_image.jpg)
